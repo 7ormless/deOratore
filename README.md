@@ -1,4 +1,4 @@
 deOratore
 =========
 
-Learning the basic of git and github from Matthew McCullough.
+Learning the basics of git and github from Matthew McCullough.
